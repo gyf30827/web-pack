@@ -1,0 +1,1 @@
+{"version":3,"sources":["second.js"],"names":[],"mappings":";AACA,OAAO,KAAP,MAAkB,OAAlB;;AAEA,OAAQ,OAAR,GAAkB;AACd,SAAK,UAAU,IAAV,EAAgB;AACjB,gBAAQ,GAAR,CAAY,QAAQ,IAApB;AACH;AAHa,CAAlB","file":"second-compiled.js","sourcesContent":["\nimport React from 'react';\n\nmodule .exports = {\n    log: function (text) {\n        console.log(text || '默认')\n    }\n}"]}
